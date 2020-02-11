@@ -25,7 +25,7 @@ public:
 		
 		while(cur != more)
 		{
-            cout << cur << " ";
+            
 			if(nums[cur] < pivot)
 			{
 				swap(nums[cur],nums[++less]);
