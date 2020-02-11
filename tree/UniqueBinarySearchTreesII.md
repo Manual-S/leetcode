@@ -1,6 +1,6 @@
 - 解法一 分治思想
 
-```
+```C++
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
