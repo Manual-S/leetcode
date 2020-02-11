@@ -2,7 +2,7 @@
 
 - 递归解法
 
-  ```
+  ```C++
   class Solution
   {
   public:
@@ -38,7 +38,7 @@
 
 - 记忆化递归
 
-  ```
+  ```C++
   class Solution
   {
   public:
@@ -92,7 +92,7 @@
 
 - 动态规划思路
 
-  ```
+  ```C++
   class Solution
    {
   public:
@@ -119,7 +119,7 @@
 
 - 卡特兰公式法
 
-  ```
+  ```C++
   class Solution 
   {
   public:
