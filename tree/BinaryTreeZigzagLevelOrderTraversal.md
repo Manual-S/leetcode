@@ -4,7 +4,7 @@
 
   这个方法其实参考了[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)的解法。
 
-```
+```C++
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
