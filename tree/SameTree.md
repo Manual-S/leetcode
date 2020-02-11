@@ -2,7 +2,7 @@
 
   先序遍历两棵树，依次比较每个节点的值。
 
-```
+```C++
   /**
    * Definition for a binary tree node.
    * struct TreeNode {
