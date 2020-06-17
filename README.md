@@ -6,7 +6,7 @@
 
 - 树
 - 链表
-- 数组和矩阵
+- [数组和矩阵](https://github.com/Manual-S/LeetCode/blob/master/%E6%95%B0%E7%BB%84.md)
 - 栈和队列
 
 # 算法思想相关
