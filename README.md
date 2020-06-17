@@ -13,7 +13,7 @@
 
 - DP
 - 搜索
-- 双指针
+- (双指针)[https://github.com/Manual-S/LeetCode/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88.md]
 - 二分查找
 
 # 参考资料
